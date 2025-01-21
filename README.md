@@ -20,7 +20,6 @@ Containers will be available in docker network `172.23.0.0/24`
 | clickhouse01 | 172.23.0.11
 | clickhouse02 | 172.23.0.12
 | clickhouse03 | 172.23.0.13
-| clickhouse04 | 172.23.0.14
 
 ## Profiles
 
